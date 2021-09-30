@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @MarcTyson
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on projects about html, css, javascript, react, sass, php, java
-- 📫 How to reach me codewithmarc@gmail.com
+# 👋 Hi, I’m **@MarcTyson**
+> 👀 I’m interested in programming
+> 🌱 I’m currently learning _ReactJs_, _React Native_
+- 💞️ I’m looking to collaborate on projects such as 
+. html
+. css
+ .sass
+. javascript
+  .react
+.php
+.java
+- 📫 How to reach me [codewithmarc](codewithmarc@gmail.com)
 
 <!---
 MarcTyson/MarcTyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
