@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Marc** From **codewithmarc**
+# 👋 Hi, I’m *Marc* From *codewithmarc*
 > 👀 I’m interested in programming
 > 🌱 I’m currently learning _ReactJs_, _React Native_
 ### 💞️ I’m looking to collaborate on projects such as :
