@@ -11,7 +11,7 @@
   * NodeJs
 * PHP
 * JAVA
-- 📫 Yo can reach me on [codewithmarc@gmail.com](codewithmarc@gmail.com "It's My Email")
+- 📫 Yo can reach me on codewithmarc@gmail.com
 
 <!---
 MarcTyson/MarcTyson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
