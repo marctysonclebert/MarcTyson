@@ -1,4 +1,4 @@
-# 👋 Hi everyone, I’m __Marc Tyson__ From __CodeWithMarc__
+# 👋 Hi everyone, I’m __CLÉBERT Marc Tyson__ From __CodeWithMarc__
 > 👀 I’m interested in programming
 > 🌱 I’m currently learning _ReactJs_, _React Native_
 ### 💞️ I’m looking to collaborate on projects such as :
